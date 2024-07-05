@@ -14,4 +14,4 @@ Hello! I love designing and coding I am trying to be a software student :)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,photoshop,blender,cpp,discord,github,linux,vscode,visualstudio,lua,arduino,linkedin,robloxstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,photoshop,blender,cpp,discord,github,linux,arch,vim,vscode,visualstudio,lua,arduino,linkedin,robloxstudio)](https://skillicons.dev)
