@@ -1,13 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/MvovQGsMBY9H2/giphy.gif" width="100"/>
-</div>
+<img align="left" src="https://raw.githubusercontent.com/xeome/xeome/master/i860_small.png">
 
----
+### Hey!
 
-### 🥳 About Me :
-
-Hello! I love designing and coding I am trying to be a software student :)
-
+I'm someone who is passionate about **GNU/Linux** and likes to **write code**.
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
