@@ -1,4 +1,4 @@
-<img align="left" src="https://raw.githubusercontent.com/saveside/saveside/refs/heads/main/isavee.png">
+<img align="left" src="https://github.com/saveside/saveside/blob/main/isave-small.png?raw=true">
 
 ### Hello!
 
