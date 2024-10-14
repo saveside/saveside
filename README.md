@@ -4,9 +4,10 @@
 
 GNU/Linux enthusiast and passionate about programming! :)
 <br>
-my blog : https://notes.savedsgn.com/
+my blog : https://notes.savew.dev/
 <br>
-for contact: hi@savedsgn.com
+for contact: hi@savew.dev
+more info: https://savew.dev
 
 <br>
 
