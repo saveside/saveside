@@ -4,8 +4,8 @@
 
 GNU/Linux enthusiast and passionate about programming! :)
 <br>
-for contact: hi@savew.dev <br>
-more info: https://savew.dev
+<br>
+[![](https://visitcount.itsvg.in/api?id=saveside&style=flat&color=010101)](https://github.com/saveside)
 
 <br>
 
@@ -16,6 +16,3 @@ more info: https://savew.dev
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=saveside&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
