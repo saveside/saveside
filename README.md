@@ -1,18 +1,18 @@
-<img align="left" src="https://github.com/saveside/saveside/blob/main/isave-small.png?raw=true">
+<p align="center"> <img src="https://raw.githubusercontent.com/saveside/saveside/refs/heads/main/banner-3.png" alt="Save Banner"/> </p>
 
-### Hello!
+# Hello!
 
-GNU/Linux enthusiast and passionate about programming! :)
-<br>
-<br>
-[![](https://visitcount.itsvg.in/api?id=saveside&style=flat&color=010101)](https://github.com/saveside)
+High school student passionate about programming and GNU/Linux, exploring systems, tools, and code with a curiosity for how everything works.<br>
 
-<br>
+# Highlighted Projects
+- [honeypot2](https://github.com/saveside/honeypot2) **—** A honey-soaked Kubernetes configuration providing simplicity and advanced usability with many services and tools.
 
-<br>
+# Tech Stack:
 
-# 💻 Tech Stack:
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+## Languages
+[![Languages](https://skillicons.dev/icons?i=c,go,lua,bash)](https://skillicons.dev)
 
+*Currently focusing on **Go***
 
----
+## Tools
+[![Tools](https://skillicons.dev/icons?i=kubernetes,linux,docker,terraform,cloudflare,neovim,git,github,discord)](https://skillicons.dev)
