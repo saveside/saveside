@@ -1,18 +1,32 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/saveside/saveside/refs/heads/main/banner-3.png" alt="Save Banner"/> </p>
+<p align="center">
+  <img src="https://github.com/saveside/saveside/blob/main/isave-small.png?raw=true" width="100">
+</p>
 
-# Hello!
+<p align="center">
+  <samp>
+    <br>
+    Hey there, I'm Yağız!
+    <br>
+    High school student passionate about programming and GNU/Linux, exploring systems, tools, and code with
+    <br>
+    a curiosity for how everything works.
+    <br><br>
+    I’m currently learning <b>C</b>, <b>Go</b>, <b>Kubernetes</b>, and <b>Network Engineering</b>.
+  </samp>
+</p>
 
-High school student passionate about programming and GNU/Linux, exploring systems, tools, and code with a curiosity for how everything works.<br>
-
-# Highlighted Projects
-- [honeypot2](https://github.com/saveside/honeypot2) **—** A honey-soaked Kubernetes configuration providing simplicity and advanced usability with many services and tools.
-
-# Tech Stack:
-
-## Languages
-[![Languages](https://skillicons.dev/icons?i=c,go,lua,bash)](https://skillicons.dev)
-
-*Currently focusing on **Go***
-
-## Tools
-[![Tools](https://skillicons.dev/icons?i=kubernetes,linux,docker,terraform,cloudflare,neovim,git,github,discord)](https://skillicons.dev)
+<p align="center">
+  <samp>
+    <b>Highlighted Projects:</b>
+    <br>
+    <a href="https://github.com/saveside/honeypot2">honeypot2</a>: A honey soaked Kubernetes configuration.
+    <br><br>
+    ~ 
+    <a href="https://yagis.dev/">website</a> 
+    · 
+    <a href="https://discord.com/users/1290338311965249538">discord</a> 
+    · 
+    <a href="https://notes.yagis.dev">notes</a> 
+    ~
+  </samp>
+</p>
