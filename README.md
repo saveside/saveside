@@ -19,7 +19,8 @@
   <samp>
     <b>Highlighted Projects:</b>
     <br>
-    <a href="https://github.com/saveside/honeypot2">honeypot2</a>: A honey soaked Kubernetes configuration.
+    <a href="https://github.com/saveside/honeypot2">honeypot2</a>: A honey soaked Kubernetes configuration. <br>
+    <a href="https://github.com/saveside/spc">spc</a>: A chat server built in C using TCP sockets.
     <br><br>
     ~ 
     <a href="https://yagis.dev/">website</a> 
